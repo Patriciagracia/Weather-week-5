@@ -1,0 +1,44 @@
+.container {
+  max-width: 50%;
+}
+.ul_bajo_temp {
+  font-size: 10px;
+}
+p {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10px;
+  margin-top: 10px;
+}
+#day-time {
+  list-style-type: none;
+}
+.right_ul {
+  font-size: 12px;
+  margin-top: 13px;
+  list-style-type: none;
+}
+.mon,
+.tu,
+.wed,
+.thu,
+.fri {
+  text-align: center;
+}
+.degrees {
+  font-size: 20px;
+}
+.card {
+  color: rgb(73, 73, 73);
+}
+.faren {
+  font-weight: lighter;
+  font-size: 20px;
+}
+.hum {
+  margin-top: 50px;
+  margin-left: -10px;
+}
+.input-group {
+  max-width: 40%;
+}
